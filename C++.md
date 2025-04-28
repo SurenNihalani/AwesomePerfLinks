@@ -7,6 +7,9 @@ Books:
 Research Papers:
 - A Top-Down Method for Performance Analysis and Counters Architecture ([pdf link](https://www.researchgate.net/profile/Ahmad-Yasin/publication/269302126_A_Top-Down_method_for_performance_analysis_and_counters_architecture/links/58031fc108ae6c2449f7feda/A-Top-Down-method-for-performance-analysis-and-counters-architecture.pdf))
 
-Profilers:
+Sampling Profilers:
 - Tracy ([github](https://github.com/wolfpld/tracy?tab=readme-ov-file))
 - VTune ([intel](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html))
+
+Non Sampling Profilers:
+- eBPF ([github](https://github.com/iovisor/bcc)). If you want to trace I/O type bottlenecks.
