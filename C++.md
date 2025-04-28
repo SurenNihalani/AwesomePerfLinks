@@ -9,3 +9,4 @@ Research Papers:
 
 Profilers:
 - Tracy ([github](https://github.com/wolfpld/tracy?tab=readme-ov-file))
+- VTune ([intel](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html))
