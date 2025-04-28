@@ -21,3 +21,5 @@ Linux Kernel:
 Linux Perf:
 - perf wiki ([link](https://perfwiki.github.io/main/)) This resource shouldn't be free. Please consider donating to authors
 
+Metric Collectors:
+- https://github.com/NVIDIA/dcgm-exporter?tab=readme-ov-file
