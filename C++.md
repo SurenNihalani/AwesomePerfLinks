@@ -16,3 +16,6 @@ Non Sampling Profilers:
 
 Linux Kernel:
 - Transparent Huge Pages ([linux](https://www.kernel.org/doc/html/next/admin-guide/mm/transhuge.html))
+
+Linux Perf:
+- perf wiki ([link](https://perfwiki.github.io/main/)) This resource shouldn't be free. Please consider donating to authors
