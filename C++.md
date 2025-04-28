@@ -13,9 +13,11 @@ Sampling Profilers:
 
 Non Sampling Profilers:
 - eBPF ([github](https://github.com/iovisor/bcc)). If you want to trace I/O type bottlenecks.
+- Uftrace ([github](https://github.com/namhyung/uftrace) Most promising project 
 
 Linux Kernel:
 - Transparent Huge Pages ([linux](https://www.kernel.org/doc/html/next/admin-guide/mm/transhuge.html))
 
 Linux Perf:
 - perf wiki ([link](https://perfwiki.github.io/main/)) This resource shouldn't be free. Please consider donating to authors
+
