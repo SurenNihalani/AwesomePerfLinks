@@ -13,3 +13,6 @@ Sampling Profilers:
 
 Non Sampling Profilers:
 - eBPF ([github](https://github.com/iovisor/bcc)). If you want to trace I/O type bottlenecks.
+
+Linux Kernel:
+- Transparent Huge Pages ([linux](https://www.kernel.org/doc/html/next/admin-guide/mm/transhuge.html))
